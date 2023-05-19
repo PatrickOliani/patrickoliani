@@ -5,10 +5,11 @@
 - 💬 Contate-me no email: patrickoliani@hotmail.com
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="width: 30%;">
+  <div style="width: 20%;">
     <img src="https://github-readme-stats.vercel.app/api?username=PatrickOliani&show_icons=true&theme=midnight-purple" alt="Patrick Oliani GitHub stats">
   </div>
-  <div style="width: 30%;">
+  <div style="display: flex; justify-content: space-between;">
+  <div style="width: 20%;">
     <a href="https://github.com/PatrickOliani/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickOliani&layout=compact&theme=midnight-purple" alt="Top Languages">
     </a>
