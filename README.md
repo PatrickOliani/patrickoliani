@@ -6,7 +6,7 @@
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=PatrickOliani&show_icons=true&theme=midnight-purple" alt="Patrick Oliani GitHub stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickOliani&layout=compact&theme=midnight-purple" alt="Top Languages" width="44%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickOliani&layout=compact&theme=midnight-purple" alt="Top Languages" width="43%">
 </p>
 
 
