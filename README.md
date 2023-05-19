@@ -6,7 +6,8 @@
 
 ![Patrick Oliani GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickOliani&show_icons=true&theme=midnight-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickOliani&layout=pie)](https://github.com/PatrickOliani/github-readme-stats=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickOliani&layout=donut-vertical=true&theme=midnight-purple)](https://github.com/PatrickOliani/github-readme-stats)
+
 
 
 
